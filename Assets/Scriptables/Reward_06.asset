@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c76ba224f778ea449ebc233b69d585b, type: 3}
+  m_Name: Reward_06
+  m_EditorClassIdentifier: 
+  id: 5
+  rewardName: Wood
+  icon: {fileID: 21300000, guid: 0e1ccb64303778e4081913a6d9cca677, type: 3}
+  value: 10
