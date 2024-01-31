@@ -1,7 +1,7 @@
 # Lucky-Wheel
  Spin Wheel
-
-![LuckyWheel](https://github.com/SeckinKeskin/Lucky-Wheel/assets/3839961/ce6e704e-f96e-494e-9b02-e02ea4ce0db6)
+ 
+![LuckyWheel-Claim](https://github.com/SeckinKeskin/Lucky-Wheel/assets/3839961/d596349f-88f2-4e73-a98f-b19e7b5f6bfe)
 
 Spin algorithims 
 
